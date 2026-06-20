@@ -1,6 +1,6 @@
 [package]
 name = "lore-integration-tests"
-version = "0.1.0"
+v
 edition = "2024"
 publish = false
 
